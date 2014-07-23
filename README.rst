@@ -1,8 +1,10 @@
 ========================
-django-twoscoops-project
+django-twoscoops-project (fork)
 ========================
 
 A project template for Django 1.6 (with a tag for Django 1.5).
+
+*note: This is a fork from the original project template. Here we dispense with Bootstrap and add scaffolding for using Sass and Ruby Gems.*
 
 To use this project follow these steps:
 
@@ -106,7 +108,6 @@ This project follows best practices as espoused in `Two Scoops of Django: Best P
 Acknowledgements
 ================
 
-- Many thanks to Randall Degges for the inspiration to write the book and django-skel.
-- All of the contributors_ to this project.
+- Many thanks to the creators of the original `Django Twoscoops Project`_!
 
-.. _contributors: https://github.com/twoscoops/django-twoscoops-project/blob/master/CONTRIBUTORS.txt
+.._`Django Twoscoops Project`: https://github.com/twoscoops/django-twoscoops-project

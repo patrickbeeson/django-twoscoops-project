@@ -110,4 +110,4 @@ Acknowledgements
 
 - Many thanks to the creators of the original `Django Twoscoops Project`_!
 
-.._`Django Twoscoops Project`: https://github.com/twoscoops/django-twoscoops-project
+.. _`Django Twoscoops Project`: https://github.com/twoscoops/django-twoscoops-project

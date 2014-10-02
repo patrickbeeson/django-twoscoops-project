@@ -1,8 +1,8 @@
 ========================
-django-twoscoops-project (fork)
+django-twoscoops-project
 ========================
 
-A project template for Django 1.6 (with a tag for Django 1.5).
+A project template for Django 1.7
 
 *note: This is a fork from the original project template. Here we dispense with Bootstrap and add scaffolding for using Sass and Ruby Gems.*
 
@@ -72,9 +72,6 @@ django-twoscoops-project, run the following command::
 
     $ django-admin.py startproject --template=https://github.com/patrickbeeson/django-twoscoops-project/archive/develop.zip --extension=py,rst,html icecream_project
 
-For Django 1.5 users, we recommend::
-
-    $ django-admin.py startproject --template=https://github.com/patrickbeeson/django-twoscoops-project/archive/1.5.zip --extension=py,rst,html icecream_project
 
 Installation of Dependencies
 =============================
